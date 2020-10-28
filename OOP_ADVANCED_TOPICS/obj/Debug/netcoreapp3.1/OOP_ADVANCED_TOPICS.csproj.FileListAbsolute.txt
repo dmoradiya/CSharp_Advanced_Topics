@@ -1,0 +1,13 @@
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.exe
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.deps.json
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.runtimeconfig.json
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.runtimeconfig.dev.json
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.dll
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\bin\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.pdb
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.csprojAssemblyReference.cache
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.AssemblyInfoInputs.cache
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.AssemblyInfo.cs
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.csproj.CoreCompileInputs.cache
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.dll
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.pdb
+C:\Users\jigar\Documents\C#\OOP_ADVANCED_TOPICS\OOP_ADVANCED_TOPICS\obj\Debug\netcoreapp3.1\OOP_ADVANCED_TOPICS.genruntimeconfig.cache

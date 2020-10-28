@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP_ADVANCED_TOPICS/1.0.0": {
+        "runtime": {
+          "OOP_ADVANCED_TOPICS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_ADVANCED_TOPICS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
