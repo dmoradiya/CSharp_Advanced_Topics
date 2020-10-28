@@ -14,6 +14,20 @@ namespace OOP_ADVANCED_TOPICS
     {
         static void Main(string[] args)
         {
+            // In-class practice.
+            List<int> theList = new List<int>() { 2, 5, 12, 7, 32, 95, 42, 65, 9, 42, 7, 42 };
+
+            Console.WriteLine($"The average of all the items which are less than 20 is: {theList.Where(x => x < 20).Average()}");
+            Console.WriteLine($"The largest item that is less than 50 is: {theList.Where(x => x < 50).Max()}");
+            Console.WriteLine($"The third distinct item, in numerical order is: {theList.Distinct().OrderBy(x => x).ToArray()[2]}");
+            Console.WriteLine($"The most number of duplicated items is: {theList.Select(x => theList.Where(y => y == x).Count()).Max()}");
+            Console.WriteLine($"The sum of all odd numbers is: {theList.Where(x => x % 2 == 1).Sum()}");
+            Console.WriteLine($"The lowest number that is divisible by 4 is: {theList.Where(x => x % 4 == 0).Min()}");
+            Console.WriteLine($"The average remainder when the distinct items are divided by 5 is: {theList.Distinct().Select(x => x % 5).Average()}");
+
+        }
+        static void LINQ()
+        {
             // ----------
             // LINQ
             // ----------
@@ -41,6 +55,9 @@ namespace OOP_ADVANCED_TOPICS
             Console.WriteLine(myInts.Max());
             Console.WriteLine(myInts.Min());
             // Keep in mind when stringing LINQ methods together, the Aggregate should be after any filtering and selection, as it will collapse the list into a single value.
+
+            // Distinct - Removes all duplicates.
+            myInts.Distinct();
 
             // Converting from a list of one item to a single item.
             myInts.Where(x => x == 12).Single();
@@ -96,7 +113,6 @@ namespace OOP_ADVANCED_TOPICS
 
             myObjectList.Select(x => x.DateOfBirth.Year).Average();
             // 1990
-
         }
     }
 }
